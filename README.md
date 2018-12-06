@@ -9,4 +9,6 @@ https://tc39.github.io/ecma262/
 - [x] 1 Scope
 - [x] 2 Conformance
 - [x] 3 Normative References
+- [ ] 4 Overview
+  - [ ] 4.1 Web Scripting
 ___
