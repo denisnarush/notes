@@ -2,6 +2,7 @@
 progress notes, reminders and thoughts
 
 [ECMAScript® 2019 Language Specification](#ecmascript-2019-language-specification)
+
 [Web APIs](#web-apis)
 
 ## Reading
