@@ -1,9 +1,8 @@
 
 progress notes, reminders and thoughts
-
-[ECMAScript® 2019 Language Specification](#ecmascript-2019-language-specification)
-
-[Web APIs](#web-apis)
+- [Reading](#reading)
+  - [ECMAScript® 2019 Language Specification](#ecmascript-2019-language-specification)
+  - [Web APIs](#web-apis)
 
 ## Reading
 ##### ECMAScript® 2019 Language Specification
@@ -17,3 +16,7 @@ https://tc39.github.io/ecma262/
 ___
 #### Web APIs
 https://developer.mozilla.org/en-US/docs/Web/API
+- Specifications
+  - A
+    - [ ] Alarm API
+___
